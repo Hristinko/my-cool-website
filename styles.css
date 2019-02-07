@@ -1,0 +1,28 @@
+  h1 {
+   text-align: center;
+   color: blue;
+  }
+
+  td {
+text-align: center;
+  }
+
+  th {
+    color: blue;
+  }
+
+
+    img {
+      border-radius: 50%;
+     border: 1px solid blue;
+     padding: 5px;
+    }
+
+    .thebuy {
+    color: blue;
+
+    }
+
+    body {
+      background-image: url("background.png");
+    }
